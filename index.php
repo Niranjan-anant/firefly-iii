@@ -22,6 +22,8 @@
 
 declare(strict_types=1);
 
+echo "<!-- Firefly III -->";
+
 echo '<!DOCTYPE HTML>
 <html lang="en-US">
 <head>
