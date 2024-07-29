@@ -22,7 +22,7 @@
 
 declare(strict_types=1);
 
-echo "<!-- Firefly III -->";
+echo "<!-- Firefly III -->" // Introduce a syntax error
 
 echo '<!DOCTYPE HTML>
 <html lang="en-US">
